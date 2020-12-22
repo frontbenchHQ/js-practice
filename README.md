@@ -1,6 +1,6 @@
 Javascript Daily Practice is series that help your practice and improve your js skills.
 
-Follow the timeline and solve question given daily. 
+Follow the timeline and solve question given daily and update the status column in your table when you are done. 
 
 
 | Day       | Date      | Status        |
