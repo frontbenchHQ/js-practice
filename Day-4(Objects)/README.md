@@ -2,7 +2,10 @@
 
 Resources
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
-- 
+
+
+
+----
 
 
 1. Pick a penguin from Wikipedia's List of Fictional Penguins and create an object named myPenguin with properties that represent the information listed in each column on that Wikipedia page (for example: the character's name, origin, and author).
